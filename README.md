@@ -40,7 +40,7 @@ Use the following excel sheets as inputs, with the relevant fields listed below:
  	- 14x Monthly sale (in units)
 
 ## Functionality
-This notebook saves about 1~2 hours of data manipulation
+This notebook saves about 4 hours of work with data manipulation. It also provides all the necessary information for the review of the sales forecast. 
 
 ## Tech Stack
 - Python
