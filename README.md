@@ -1,5 +1,6 @@
-# Automated basis generation with sales forecast
+# Automated basis generation for sales forecast
 
+TL;DR: A data manipulation issue, with 6 excel sheets as input and one sheet as an output.
 
 ## Task
 Build a tool to diminish the amount of time needed to update the basis for the monthly sales forecast review that a company does. The output must be an excel sheet with one product per line, some relevant information about it and the monthly sales forecast that was built last month. The new month must be automatically added to the sheet, with no values in it, since it will be later handled by the team.
